@@ -22,9 +22,9 @@
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> A glimpse into my GitHub stats and abilities
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DarthKar&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="SrRexxo" /></p> 	
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarthKar&theme=merko&hide_border=true" alt="SrRexxo" /></p> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarthKar&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="SrRexxo" /></p> 	
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SrRexxo&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="SrRexxo" /></p> 	
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SrRexxo&theme=merko&hide_border=true" alt="SrRexxo" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrRexxo&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="SrRexxo" /></p> 	
 </div>
 <br>
 
@@ -37,7 +37,7 @@
     <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.com/user/DarthKar" target="_blank">
+  <a href="https://profile-summary-for-github.com/user/SrRexxo" target="_blank">
     <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 
