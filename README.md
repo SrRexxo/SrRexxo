@@ -33,7 +33,7 @@
 </p>
 <p align="center">
   
-  <a href="https://co.linkedin.com/in/miguel-angel-peña-marin-71abb1267?trk=people-guest_people_search-card" target="_blank">
+  <a href="https://www.linkedin.com/in/mateo-ramírez-hernández-a20500258/" target="_blank">
     <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
