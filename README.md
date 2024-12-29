@@ -1,6 +1,6 @@
 <div align="center">
   <p align ="center">
-  <img src="[https://tenor.com/bSF5v.gif](https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487)" width="400px" height="300px" alt="no carga"></img>
+  <img src="https://tenor.com/bSF5v.gif" width="400px" height="300px" alt="no carga"></img>
 </p>
 </div>
 
