@@ -1,8 +1,9 @@
 <div align="center">
   <p align ="center">
-  <img src="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487" width="400px" height="300px" alt="no carga"></img>
+  <img src="https://tenor.com/bSF5v.gif" width="400px" height="300px" alt="no carga"></img>
 </p>
 </div>
+
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
