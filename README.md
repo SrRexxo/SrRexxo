@@ -1,6 +1,6 @@
 <div align="center">
   <p align ="center">
-  <img src="https://tenor.com/view/soa-game-dev-sonic-onset-adventure-roblox-gif-22796744"  alt="no carga"></img>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTY5Z2psZ3pvbWszc3RncWtkbWEzN3R5Mzd5NHZjNGo5MXAydHNyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="no carga"></img>
 </p>
 </div>
 
