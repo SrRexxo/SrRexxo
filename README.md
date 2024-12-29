@@ -1,6 +1,6 @@
 <div align="center">
   <p align ="center">
-  <img src="https://tenor.com/bHODA.gif"  alt="no carga"></img>
+  <img src="https://tenor.com/view/soa-game-dev-sonic-onset-adventure-roblox-gif-22796744"  alt="no carga"></img>
 </p>
 </div>
 
@@ -27,61 +27,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarthKar&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="SrRexxo" /></p> 	
 </div>
 <br>
-
-
-
- 
- <p  align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
-  &nbsp;
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">
-&nbsp;
-  
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="25">
-&nbsp;
-
-</p>
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-&nbsp;
-
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" height="25">
-&nbsp;
-
-</p>
-<br>
-<h3> 📂 My Repositories </h3><hr>
-
-
-
-<div>
-  <p align="center">
-    <a href="https://github.com/DarthKar/Proyecto-POO-2023-P1">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar&repo=Proyecto-POO-2023-P1&theme=merko" alt="GitHub Stats" />
-        </a>
-    <a href="https://github.com/DarthKar/Proyecto-POO-2023-P2">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar&repo=Proyecto-POO-2023-P2&theme=merko" alt="GitHub Stats" />
-        </a>
-        <a href="https://github.com/DarthKar/Language-learning-">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar&repo=Language-learning-&theme=merko" alt="GitHub Stats" />
-        </a>
-        <a href="https://github.com/DarthKar/Proyecto-IS">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthKar&repo=Proyecto-IS&theme=merko" alt="GitHub Stats" />
-        </a>
-  </p>
-</div>
 
 <p align="center">
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
