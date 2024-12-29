@@ -1,6 +1,6 @@
 <div align="center">
   <p align ="center">
-  <img src="https://tenor.com/bHODA.gif" width="400px" height="300px" alt="no carga"></img>
+  <img src="https://tenor.com/bHODA.gif"  alt="no carga"></img>
 </p>
 </div>
 
