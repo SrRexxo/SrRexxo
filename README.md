@@ -12,7 +12,7 @@
 - :books: My major is **Interactive design**
 - 🌎 I'm living now in **Bello, Antioquia, Colombia**
 - 🗿 **I'm a Junior game developer 🐍**
-- 🐳: I'm interested in videogames development, thinking the right way wich art could be associated and connected with programming 
+- 🐳: I'm interested in videogames development, thinking how mechanics can transform a game into something unique
 - 📘: My quote is **_"Start with what is right rather than what is acceptable"_**
   
 <p align = "center">
